@@ -2,12 +2,6 @@
 
 This application is basically a prototype of real-time taxi aggregators and service providers like Ola or Uber built using Node.js, Leaflet and Socket.io. Along with cab service we have also included booking daily needs Service facility such as food or grocery delivery. Hence you can book both service and cab on the go.This project was developed with leaflet version 0.7.7, express version 4.13.4 and socket.io version 1.4.5.
 
-## Getting started ##
-Demos:[Customer](https://www.cronj.com:8085/customer),
-[Driver](https://www.cronj.com:8085/driver),
-[Serviceman](https://www.cronj.com:8085/serviceman),
-[Faker](https://www.cronj.com:8085/faker),
-
 ## Prerequisites ##
 1. Git
 2. Node.js and Npm
@@ -28,6 +22,4 @@ If everything goes right,you will be able to see the folllowing in your browser 
 ![cust.png](https://bitbucket.org/repo/BEAdzn/images/2749527380-cust.png)
 
 ## Contributions ##
-Leaflet, Node.js, Express,Socket.io,Google for MapTiles and Uber for their cool driver icon.
-
-**Read complete details here:**[CronJ-Blog](http://www.cronj.com/blog/uber-for-x-prototype/)
+Node.js, Express,Socket.io,Google for MapTiles and Uber for their cool driver icon.
